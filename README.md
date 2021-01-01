@@ -1,4 +1,4 @@
-# behappywith
+# behappywith.me
 
 Código de estudo seguindo o livro
 PROGRESSIVE WEB APPS - Construa aplicações progressivas com React
